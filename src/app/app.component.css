@@ -1,0 +1,205 @@
+.mt-40
+{
+    margin-top: 40px;
+}
+
+.main-container
+{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.content
+{
+    display: flex;
+}
+
+.results
+{
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 68%;
+}
+
+.results > div
+{
+    margin-block: 8px;
+}
+
+.card
+{
+    width: 100%;
+    background-color: white;
+    display: flex;
+
+    border-radius: 4px;
+}
+
+.heading
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sub-heading
+{
+    font-size: 14px;
+}
+
+.paragraph
+{
+    font-size: 12px;
+    width: 520px;
+}
+
+.details
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.detail
+{
+    display: flex;
+    width: 180px;
+    margin-block: 8px;
+    margin-right: 60px;
+}
+
+.det-heading
+{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.det-text
+{
+    font-size: 12px;
+}
+
+.settings
+{
+    float: right;
+    margin-right: 8px;    
+}
+
+.settings > img
+{
+        margin-inline: 8px;
+}
+
+.right-card
+{
+    flex: 0 0 20%;
+    margin-left: 24px;
+}
+
+.first-card
+{
+    height: 170px;
+    background-color: white;
+    margin-top: 8px;
+
+    border-radius: 4px;
+}
+
+.paginator
+{
+    display: flex;
+    background-color: white;
+    font-size: 14px;
+    padding-block: 16px;
+}
+
+
+.img-ic
+{
+    margin-right: 16px;
+    width: 7px;
+    height: 11px;
+    margin-top: 5px;
+}
+
+.paginator
+{
+    display: flex;
+    background-color: white;
+    font-size: 14px;
+    padding-block: 16px;
+}
+
+.pages
+{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.pages > .page
+{
+    margin-inline: 4px;
+}
+
+.page
+{
+    padding-inline: 12px;
+    padding-block: 4px;
+    cursor: pointer;
+}
+
+.page:hover
+{
+    background-color: #D4D6DB;
+}
+
+.sel-page
+{
+    background-color: #D4D6DB;
+}
+
+.mt-40
+{
+    margin-top: 40px;
+}
+
+.mt-32
+{
+    margin-top: 32px;
+}
+
+.ml-8
+{
+    margin-left: 8px;
+}
+
+.mt-8
+{
+    margin-top: 8px;
+}
+
+.mt-16
+{
+    margin-top: 16px;
+}
+
+.ml-16
+{
+    margin-left: 16px;
+}
+
+.ml-100
+{
+    margin-left: 100px;
+}
+
+.p-8
+{
+    padding: 8px;
+    cursor: pointer;
+}
+
+.p-8:hover
+{
+    background-color: #F2F3F4;
+}
